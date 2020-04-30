@@ -34,7 +34,7 @@ export class PageSix extends React.Component{
                     </div>
                     <div className="list">
                         <div className="img">
-                            <img src={ImageRule} alt="安全"/>
+                            <img src={ImageSafe} alt="安全"/>
                         </div>
                         <div className="list_title">安全</div>
                         <div className="detail">
@@ -46,7 +46,7 @@ export class PageSix extends React.Component{
                     </div>
                     <div className="list">
                         <div className="img">
-                            <img src={ImageRule} alt="服务"/>
+                            <img src={ImageService} alt="服务"/>
                         </div>
                         <div className="list_title">服务</div>
                         <div className="detail">
